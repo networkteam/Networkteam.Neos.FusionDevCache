@@ -11,7 +11,7 @@ the cache on changes to Fusionf files.
 
 Install the package and rescan Flow packages:
 
-    composer require-dev networkteam/neos-fusiondevcache
+    composer require --dev networkteam/neos-fusiondevcache
     ./flow neos.flow:package:rescan
 
 The setting should now be active and the Fusion object tree should be cached during development.
