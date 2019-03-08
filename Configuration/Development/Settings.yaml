@@ -1,0 +1,5 @@
+Neos:
+  Neos:
+    fusion:
+      # Enable object tree cache also in development, this package adds a flushing mechanism just for that case
+      enableObjectTreeCache: true
