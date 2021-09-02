@@ -5,7 +5,7 @@ It turns out that Neos doesn't activate the Fusion object tree (the parsed and m
 included Fusion files) during development.
 
 This small package activates the fusion object tree cache also for the `Development` context and flushes
-the cache on changes to Fusionf files.
+the cache on changes to Fusion files.
 
 ## Installation
 
